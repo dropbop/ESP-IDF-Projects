@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+
+# Generated config (sdkconfig.defaults is committed instead)
+sdkconfig
+sdkconfig.old
+
+# Component manager downloads
+managed_components/
+
+# Secrets
+secrets.h
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
